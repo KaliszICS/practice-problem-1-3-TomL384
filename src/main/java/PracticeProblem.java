@@ -1,3 +1,11 @@
+/** 
+        * File: Lesson 1.3 - Strings and output without a newline
+		* Author: Tom Leung
+		* Date Created: February 15, 2026
+		* Date Last Modified: February 15, 2026
+		*/
+
+
 public class PracticeProblem {
 
 	public static void main(String args[]) {
